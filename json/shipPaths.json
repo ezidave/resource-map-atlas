@@ -1,0 +1,192 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 14000,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 123291.461,
+				"rotation": 198.485947,
+				"worldX": 529643.5,
+				"worldY": 5105306
+			},
+			{
+				"controlPointsDistance": 405532.438,
+				"rotation": -64.7075,
+				"worldX": 714535.3,
+				"worldY": 3000360.75
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -85.88777,
+				"worldX": 738504.6,
+				"worldY": 2325544.5
+			},
+			{
+				"controlPointsDistance": 748269.7,
+				"rotation": -421.1642,
+				"worldX": 631575.6,
+				"worldY": 881609.7
+			},
+			{
+				"controlPointsDistance": 558853.2,
+				"rotation": -10.613308,
+				"worldX": 2775833.25,
+				"worldY": 642351.6
+			},
+			{
+				"controlPointsDistance": 1478219.25,
+				"rotation": 76.43457,
+				"worldX": 6283593.5,
+				"worldY": 1487153.5
+			},
+			{
+				"controlPointsDistance": 538901.3,
+				"rotation": 136.741791,
+				"worldX": 5232569.5,
+				"worldY": 2204810.75
+			},
+			{
+				"controlPointsDistance": 1109465.5,
+				"rotation": -5.402569,
+				"worldX": 5647888.5,
+				"worldY": 3530798.25
+			},
+			{
+				"controlPointsDistance": 309237.2,
+				"rotation": 144.904175,
+				"worldX": 6164436.5,
+				"worldY": 4939844
+			},
+			{
+				"controlPointsDistance": 541268.8,
+				"rotation": -183.613892,
+				"worldX": 2764347.25,
+				"worldY": 5036850.5
+			}
+		],
+		"PathId": 5,
+		"PathName": "Ghost Ship",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 671143.563,
+				"rotation": -37.4053574,
+				"worldX": 1136996,
+				"worldY": 879802.063
+			},
+			{
+				"controlPointsDistance": 435838.844,
+				"rotation": 67.2758942,
+				"worldX": 4980800.5,
+				"worldY": 936983.6
+			},
+			{
+				"controlPointsDistance": 425021.031,
+				"rotation": -260.102173,
+				"worldX": 3838612.5,
+				"worldY": 1847932.25
+			},
+			{
+				"controlPointsDistance": 270137.719,
+				"rotation": 191.394287,
+				"worldX": 1105692.38,
+				"worldY": 2024427.5
+			}
+		],
+		"PathId": 6,
+		"PathName": "Trade Ship 2",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 311621.2,
+				"rotation": 212.257965,
+				"worldX": 802174.4,
+				"worldY": 4827585.5
+			},
+			{
+				"controlPointsDistance": 674201,
+				"rotation": -32.3124847,
+				"worldX": 804612.3,
+				"worldY": 2942453
+			},
+			{
+				"controlPointsDistance": 381000.281,
+				"rotation": 82.45157,
+				"worldX": 5022168,
+				"worldY": 3667389.5
+			},
+			{
+				"controlPointsDistance": 639668,
+				"rotation": 157.145218,
+				"worldX": 5341579,
+				"worldY": 4880793
+			}
+		],
+		"PathId": 7,
+		"PathName": "Trade Ship 3",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 0,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 587140.063,
+				"rotation": -414.361084,
+				"worldX": 2349103.5,
+				"worldY": 2073738.5
+			},
+			{
+				"controlPointsDistance": 374719.563,
+				"rotation": -3.49695778,
+				"worldX": 3327535.25,
+				"worldY": 1280848.38
+			},
+			{
+				"controlPointsDistance": 805072.6,
+				"rotation": 39.87407,
+				"worldX": 4819878.5,
+				"worldY": 1007061.63
+			},
+			{
+				"controlPointsDistance": 564654.063,
+				"rotation": 64.48613,
+				"worldX": 6235652,
+				"worldY": 2406007
+			},
+			{
+				"controlPointsDistance": 424141.719,
+				"rotation": -257.605255,
+				"worldX": 6177172,
+				"worldY": 4547270.5
+			},
+			{
+				"controlPointsDistance": 433896.719,
+				"rotation": -122.158112,
+				"worldX": 2199703,
+				"worldY": 4505738.5
+			},
+			{
+				"controlPointsDistance": 750468.7,
+				"rotation": 261.074158,
+				"worldX": 2030425,
+				"worldY": 3292334.5
+			}
+		],
+		"PathId": 8,
+		"PathName": "Trade Ship 1",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]
